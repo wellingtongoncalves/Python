@@ -19,4 +19,4 @@ print('A raiz de {} é a {:.2f} '.format(num,floor(raiz))) #math.ceil() arredond
 #import emoji
 #print(emoji.emojize('Olá,Mundo :earth_americas: ',use_aliases=True))
 
-import
+
