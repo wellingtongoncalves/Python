@@ -9,3 +9,5 @@ if num1 != num:
     print('GANHEI O número que eu escolhi foi {} e não {}'.format(num,num1))
 else:
     print('PARABÉNS Você ganhou , o número que eu escolhi foi {}'.format(num))    
+
+    
